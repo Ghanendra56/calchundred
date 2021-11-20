@@ -20,5 +20,5 @@ def calccal():
     print("....")
     time.sleep(5)
 
-    result = ("The total of Number1 and Number2 is: ", number1 + number2)
+    result = number1 + number2
     print(result)
