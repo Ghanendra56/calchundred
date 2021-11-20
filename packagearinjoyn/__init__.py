@@ -1,8 +1,8 @@
 class  Accha():
     def __init__(self):
-        print("Constructor baan gaya!")
+        print("This is a Constructor")
 
     def acchafunc(self, number):
-        print("This is a Function!")
+        print("The Number you typed is shown below.")
         return number
 
