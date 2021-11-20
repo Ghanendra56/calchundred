@@ -6,10 +6,10 @@ This is a Calculator Package of Python.
 
 ## Installation
 
-Install packagearinjoyn with pip (Package Installer Of Python)
+Install calchundred with pip (Package Installer Of Python)
 
 ```bash
-  pip install packagearinjoyn-0.1-py3-none-any.whl
+  pip install calchundred-0.1-py3-none-any.whl
 ```
     
 # Some Description About this Package :- 
