@@ -9,7 +9,7 @@ This is a Calculator Package of Python.
 Install packagearinjoyn with pip (Package Installer Of Python)
 
 ```bash
-  pip install packagearinjoyn-0.5-py3-none-any.whl
+  pip install packagearinjoyn-0.1-py3-none-any.whl
 ```
     
 # Some Description About this Package :- 
