@@ -1,0 +1,7 @@
+license.txt
+setup.py
+packagearinjoyn/__init__.py
+packagearinjoyn.egg-info/PKG-INFO
+packagearinjoyn.egg-info/SOURCES.txt
+packagearinjoyn.egg-info/dependency_links.txt
+packagearinjoyn.egg-info/top_level.txt
